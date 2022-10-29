@@ -1,2 +1,2 @@
 # my-projects
-This repository contains my projects related to machine learning and deep learning
+This repository contains some of my projects and experimentations run related to machine learning and deep learning
